@@ -14,7 +14,8 @@
                         </div>
                     @endif
 
-                    welcomd,You are on dahsboard!
+                    welcomd User,You are on dahsboard!
+
                 </div>
             </div>
         </div>

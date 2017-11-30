@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    welcomd,You are on dahsboard!
                 </div>
             </div>
         </div>
